@@ -58,7 +58,3 @@ The SQL migrations for setting up the database tables and functions are located 
 - Supabase (Auth & Database)
 - Radix UI Components
 - Lucide Icons
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
