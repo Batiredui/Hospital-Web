@@ -20,8 +20,8 @@ A modern hospital appointment booking system built with Next.js and Supabase.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/DembereltserenD/guy.git
-cd guy
+https://github.com/Batiredui/Hospital-Web.git
+cd Hospital-Web
 ```
 
 2. Install dependencies:
